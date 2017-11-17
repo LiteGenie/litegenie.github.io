@@ -1,7 +1,7 @@
 Litegenie
 =======
 
-A Open Source Browser Based Bitcoin Wallet. Version 1.3 beta by OutCast3k
+A Open Source Browser Based Litecoin Wallet. Version 1.0 beta by Jaedot
 
 Github URL: https://github.com/Litegenie/
 
