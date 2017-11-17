@@ -1,11 +1,13 @@
-Litegenie
+coinbin
 =======
 
 A Open Source Browser Based Litecoin Wallet. Version 1.0 beta by Jaedot
 
-Github URL: https://github.com/Litegenie/
+Live version available at http://coinb.in/ or http://4zpinp6gdkjfplhk.onion
 
-Litegen.ie supports a number of key features such as: 
+Github URL: https://github.com/OutCast3k/coinbin/
+
+Coinb.in supports a number of key features such as: 
 
 - Offline Compressed & uncompressed Address creation.
 - Offline Multisignature Address creation.
