@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 coinbin
 =======
 
@@ -33,3 +34,7 @@ Coinb.in supports a number of key features such as:
 Donate to 1CWHWkTWaq1K5hevimJia3cyinQsrgXUvg to see more development!
 =======
 
+=======
+# litegenie.github.io
+Litecoin Wallet
+>>>>>>> parent of e1f1601... Full-upload
